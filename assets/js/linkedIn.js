@@ -1,0 +1,2 @@
+	<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+	<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/byarsjames" data-format="inline" data-related="false"></script>
